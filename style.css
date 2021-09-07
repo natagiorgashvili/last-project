@@ -1,0 +1,186 @@
+.home-page {
+	background-image: url("img/1.png");
+	background-repeat: no-repeat;
+
+
+}
+.logo {
+	position: absolute;
+	left: 8.75%;
+	right: 76.51%;
+	top: 4.07%;
+	bottom: 92.31%;
+	font-size: 33px;
+	color: #333131;
+	font-family: 'Roboto', sans-serif;
+	width: 283px;
+	height: 39px;
+
+}
+
+.main-navigation {
+	font-family: roboto;
+	color:  #333131;
+	display: flex;
+	justify-content: space-between;
+	width: 740px;
+	height: 25px;
+	margin-left: 660px;
+	padding: 30px;
+	color: #333131;
+	font-size: 25px;
+}
+.button {
+	background-color: #171719;
+	color:#FFFFFF ;
+	width: 79px;
+	height: 23px;
+	font-family: roboto;
+	font-size: 15px;
+	margin-left:1679px;
+	position: absolute;
+	margin-top: -65px;
+}
+.circle {
+	width: 82px;
+	height: 82px;
+	background-color: #232126;
+	border-radius: 50px;
+	position: absolute;
+	margin-left: 118px;
+	margin-top:143px;
+}
+.tringle {
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-left: 20px solid #fff;
+    border-bottom: 10px solid transparent;
+    position: absolute;
+    margin-left: 151px;
+    margin-top:173px;
+ }
+ .date {
+ 	font-family: roboto;
+ 	font-size: 21px;
+ 	width: 281px;
+ 	height: 25px;
+ 	color: #333131;
+ }
+ .home {
+ 	font-family: roboto;
+ 	font-size: 135px;
+ 	width: 732px;
+ 	height: 158px;
+ }
+ .info {
+ 	font-family: roboto;
+ 	font-size: 21px;
+ 	width: 1079;
+ 	height: 25px;
+ }
+ .next-project {
+ 	width: 124px;
+ 	height: 25px;
+ 	font-family: roboto;
+ 	font-size: 21px;
+ 	color: #242424;
+ 	margin-top: 40px;
+ }
+
+ .first-page {
+    margin-left: 66px;
+    margin-top: 268.5px;
+}
+
+.fb {
+    width: 294px;
+    height: 19px;
+    font-family: roboto;
+    font-size: 16px;
+    color: #262626;
+    transform: rotate(-89deg);
+    margin-left: 1676px;
+    margin-top: -64px;
+}
+.elements {
+	background-image: url("img/2.png");
+	background-repeat: no-repeat;
+
+}
+.name {
+	font-family: roboto;
+ 	font-size: 135px;
+ 	width: 732px;
+ 	height: 158px;
+ }
+
+.second-page {
+	margin-left: 66px;
+    margin-top: 268.5px;
+}
+.information {
+	font-family: roboto;
+ 	font-size: 21px;
+ 	width: 1079;
+ 	height: 25px;
+}
+.third-page {
+	margin-left: 66px;
+    margin-top: 268.5px;
+}
+.portfolio {
+	background-image: url("img/3.png");
+	background-repeat: no-repeat;
+	
+}
+.blog {
+	background-image: url("img/4.png");
+	background-repeat: no-repeat;
+	
+}
+.fourth-page {
+	margin-left: 66px;
+    margin-top: 268.5px;
+}
+.fifth-page {
+	margin-left: 66px;
+    margin-top: 268.5px;
+}
+.shop {
+	background-image: url("img/5.png");
+	background-repeat: no-repeat;
+	
+}
+.arrow-1 {
+	position: absolute;
+	margin-left: 1580px;
+	margin-top:320px;
+}
+.arrow-2 {
+	position: absolute;
+	margin-left: 1620px;
+	margin-top:320px;
+}
+.six-page {
+	margin-left: 66px;
+    margin-top: 268.5px;
+}
+.seven-page {
+	margin-left: 66px;
+    margin-top: 268.5px;
+}
+.docs {
+	background-image: url("img/5.png");
+	background-repeat: no-repeat;
+}
+
+.pages {
+	background-image: url("img/4.png");
+	background-repeat: no-repeat;
+}
+.arrow {
+	position: absolute;
+	margin-left: 125px;
+	margin-top:-22px;
+}
